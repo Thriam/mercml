@@ -10,4 +10,6 @@ Learnt
 - Data Cleaning
 - Regression
 - Pipeline
-- Saving trained knowledge to a pickle fil (joblib)
+- Saving trained knowledge to a pickle file (joblib)
+- FastAPI
+- StreamLit

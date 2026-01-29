@@ -2,3 +2,5 @@ __pycache__
 .pre-commit-config.yaml
 *venv
 *.pt
+*pkl
+*db
